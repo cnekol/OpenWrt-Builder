@@ -13,5 +13,5 @@
 
 * Action from [P3TERX](https://github.com/P3TERX/Actions-OpenWrt)
 
-* OpenWrt source from [Lean](https://git.io/Jn6Lm)
+* OpenWrt source from [Lean](https://github.com/coolsnowwolf/lede)
 
