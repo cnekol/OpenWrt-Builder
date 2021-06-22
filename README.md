@@ -4,7 +4,7 @@
 | Platform | Status | Info | Download |
 |----------|--------|----------|------|
 | x86      | [![Build OpenWrt x86](https://git.io/Jn6Iw)](https://git.io/Jn6Ii) | | [Action](https://git.io/Jn6Ii) |
-| Raspberrypi | none | 3B/3B+/4B | none |
+| Raspberrypi | [![Build OpenWrt raspberryPi](https://git.io/Jn1Qf)](https://git.io/Jn1QJ) | 3B/3B+/4B | [Action](https://git.io/Jn1QJ) |
 | AX3600 | none | xiaomi AX3600 | none |
 
 ---
