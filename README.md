@@ -1,4 +1,7 @@
-# OpenWrt Builder @Neko
+# OpenWrt Builder 
+@Neko personal use
+
+compile at friday per week.
 
 
 | Platform | Status | Info | Download |
